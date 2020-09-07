@@ -13,3 +13,9 @@ Low latency as it will be consumed by social media users and there has to be low
 Cost of mis-classification is moderate.
 
 # DATASET = https://www.kaggle.com/kazanova/sentiment140¶
+
+
+
+![](https://github.com/zaid7860/Image-sentiment-analyser/blob/master/samplepositive.jpg?raw=true)
+
+# Positive
